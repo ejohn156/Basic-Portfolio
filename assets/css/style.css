@@ -81,7 +81,10 @@ footer
     height: 30px;
     width: 100px;
 }
-
+footer p
+{
+    text-align: center;
+}
 .clearfix::after 
 {
     content: "";
