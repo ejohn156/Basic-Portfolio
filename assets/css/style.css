@@ -7,6 +7,7 @@ ul {
     border-bottom: 1px solid #C0C0C0;
     background-color: white;
     position: top;
+    
 }
 li a {
     display: block;
@@ -15,6 +16,7 @@ li a {
     text-align: bottom;
     padding: 14px 16px;
     text-decoration: none;
+    margin-right: 80px;
 }
 li
 {
