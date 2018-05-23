@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 80%;
+
+}
+li a {
+    display: block;
+    width: 60px;
+    color: grey;
+    text-align: bottom;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li
+{
+    float: right;
+}
+#navbar
+{
+    width: 1024px;
+    margin: 0 auto;
+}
+#navbar h1
+{
+    float: left;
+    width: 20%
+}
