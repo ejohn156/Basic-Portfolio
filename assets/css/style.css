@@ -34,11 +34,59 @@ li
     font-style: bold;
     color: white;
 }
-#body
+.body
 {
     background-color:lightgrey;
     padding-top: 20px;
+    padding-bottom: 180px;
+}
+.content
+{
+    width: 960px;
+    float: middle;
+    margin-left: 200px;
+    padding-left: 20px;
+    margin-right: 200px;
+    background-color: white;  
+    margin-top: 30px;
+    padding-top: 15px;
+}
+.heading
+{
+    margin-bottom: 10px;
+    border-bottom: 1px solid silver;
+    color: rgb(27, 82, 116);
+}
+footer
+{
+    background-color: rgb(59, 62, 63);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    position: relative;
+    margin-top: -50px;
+    height: 50px;
+    border-top: 5px solid rgb(6, 145, 180);
+    
+}
+.msg
+{
+    height: 200px;
+    width: 800px;
+}
+#sub
+{
+    background-color: rgb(6, 145, 180);
+    margin-bottom: 20px;
+    height: 30px;
+    width: 100px;
 }
 
+.clearfix::after 
+{
+    content: "";
+    display: block;
+    clear: both;
+}
 
 
