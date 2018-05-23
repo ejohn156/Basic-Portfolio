@@ -34,9 +34,10 @@ li
     font-style: bold;
     color: white;
 }
-body
+#body
 {
     background-color:lightgrey;
+    padding-top: 20px;
 }
 
 
