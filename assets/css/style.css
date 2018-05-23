@@ -3,12 +3,14 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    width: 80%;
-
+    width: 100%;
+    border-bottom: 1px solid #C0C0C0;
+    background-color: white;
+    position: top;
 }
 li a {
     display: block;
-    width: 60px;
+    width: 100px;
     color: grey;
     text-align: bottom;
     padding: 14px 16px;
@@ -20,11 +22,22 @@ li
 }
 #navbar
 {
-    width: 1024px;
+    width: 100%;
     margin: 0 auto;
+    position: top;
 }
-#navbar h1
+.name
 {
-    float: left;
-    width: 20%
+    background-color: rgb(6, 145, 180);
+    margin-left: 200px;
+    font-size: 18px;
+    font-style: bold;
+    color: white;
 }
+body
+{
+    background-color:lightgrey;
+}
+
+
+
