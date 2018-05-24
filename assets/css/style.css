@@ -52,6 +52,8 @@ li
     background-color: white;  
     margin-top: 30px;
     padding-top: 15px;
+    padding-bottom: 40px;
+    
 }
 .heading
 {
@@ -93,5 +95,70 @@ footer p
     display: block;
     clear: both;
 }
-
+#cont
+{
+    padding-bottom: 0px;
+}
+.pic_col1
+{
+    float: left;
+    position: absolute;
+    width: 40%;
+    
+}
+.pic_col2
+{
+    float: left;
+    position: absolute;
+    width: 40%;
+    margin-left: 350px;
+    
+}
+.content_port
+{
+    width: 960px;
+    float: middle;
+    margin-left: 200px;
+    padding-left: 20px;
+    margin-right: 200px;
+    background-color: white;  
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    height: 850px;
+}
+.pic1
+{
+    margin-bottom: 40px;
+    height: 200px;
+    width: 300px;
+    margin-top: 20px;
+}
+.content_about
+{
+    width: 960px;
+    float: middle;
+    margin-left: 200px;
+    padding-left: 20px;
+    margin-right: 200px;
+    background-color: white;  
+    margin-top: 30px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    height: 300px;
+    
+}
+#pic
+{
+    float: left;
+    position: absolute;
+    width: 30%;
+}
+#info
+{
+    float: left;
+    position: absolute;
+    width: 40%;
+    margin-left: 20%;
+}
 
