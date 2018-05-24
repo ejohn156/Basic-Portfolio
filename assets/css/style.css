@@ -11,7 +11,7 @@ ul {
 }
 li a {
     display: block;
-    width: 100px;
+    width: 95px;
     color: grey;
     text-align: bottom;
     padding: 14px 16px;
@@ -169,7 +169,10 @@ footer p
     bottom: 0;
     width: 60%;
     margin-bottom: 115px;
-
+}
+.foot
+{
+    color: white;
 }
 
 
